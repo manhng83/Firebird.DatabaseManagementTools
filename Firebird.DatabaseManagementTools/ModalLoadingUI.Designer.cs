@@ -1,5 +1,5 @@
 ﻿
-namespace Firebird.ManagementTools
+namespace Firebird.DatabaseManagementTools
 {
     partial class ModalLoadingUI
     {

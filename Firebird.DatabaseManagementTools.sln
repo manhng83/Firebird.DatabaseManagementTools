@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebird.ManagementTools", "Firebird.ManagementTools\Firebird.ManagementTools.csproj", "{5599DEF6-1A08-4AE8-9405-A40D861654CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebird.DatabaseManagementTools", "Firebird.DatabaseManagementTools\Firebird.DatabaseManagementTools.csproj", "{5599DEF6-1A08-4AE8-9405-A40D861654CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
